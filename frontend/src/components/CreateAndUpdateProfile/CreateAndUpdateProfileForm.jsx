@@ -35,7 +35,7 @@ export default function ProfileForm({ profile, setProfile, onSave }) {
 
       <button
         onClick={onSave}
-        className="bg-black text-white py-2 w-full"
+        className="bg-black text-white py-2 w-full cursor-pointer"
       >
         {profile._id ? "Update Profile" : "Create Profile"}
       </button>
