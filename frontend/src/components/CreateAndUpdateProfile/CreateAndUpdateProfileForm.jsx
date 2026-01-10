@@ -1,6 +1,6 @@
 
 export default function ProfileForm({ profile, setProfile, onSave }) {
-  console.log("profile name",profile)
+  //console.log("profile name",profile)
   return (
     <div className="space-y-3 w-full">
 
