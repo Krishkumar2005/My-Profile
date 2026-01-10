@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom"
 export default function ProfileSection({ profile }) {
-  console.log("p sec",profile)
+  //console.log("profile section", profile)
   return (
     <section className="bg-white p-4 rounded shadow space-y-2">
       <h1 className="text-2xl font-bold">{profile.data.name}</h1>
