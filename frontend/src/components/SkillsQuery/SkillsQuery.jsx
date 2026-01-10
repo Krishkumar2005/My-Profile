@@ -18,7 +18,7 @@ export default function SkillsSection() {
       setSkills([])
     }
   };
-  console.log(skills.data)
+  
   return (
     <section className="bg-white p-4 rounded shadow space-y-3">
       <input
