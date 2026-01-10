@@ -16,9 +16,7 @@ app.use(express.json())
 
 app.use(
   cors({
-    origin: ["https://my-profile-sooty-ten.vercel.app",
-             "http://localhost:5173",
-            ]
+    origin: "https://my-profile-sooty-ten.vercel.app",
     credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE"],
   })
