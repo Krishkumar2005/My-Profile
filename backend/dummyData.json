@@ -1,0 +1,106 @@
+{
+  "name": "Krish Kumar",
+  "email": "krishsinghania6115@gmail.com",
+  "education": [
+    {
+      "institution": "Bakhtiyarpur College of Engineering, Patna",
+      "degree": "B.Tech in Computer Science",
+      "duration": "2022-2026",
+      "cgpa": "7.62/10"
+    },
+    {
+      "institution": "Nxtwave Disruptive Technologies",
+      "degree": "Industry-ready Certification in Full-Stack Development",
+      "duration": "2023-Present"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "C",
+    "C++",
+    "React",
+    "Next.js",
+    "Tailwind CSS",
+    "ShadCN UI",
+    "Bootstrap",
+    "Redux Toolkit",
+    "Node.js",
+    "Express",
+    "REST APIs",
+    "JWT",
+    "MongoDB",
+    "PostgreSQL",
+    "SQLite",
+    "Git",
+    "Docker",
+    "Prisma",
+    "Redis",
+    "Socket.io",
+    "Razorpay",
+    "ImageKit",
+    "DSA"
+  ],
+  "projects": [
+    {
+      "title": "ImageEcom – AI Driven Image Commerce Platform",
+      "description": "Built a responsive image-commerce platform with fast image delivery using ImageKit CDN, secure authentication, and Razorpay payments.",
+      "techStack": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind",
+        "MongoDB",
+        "NextAuth",
+        "Razorpay",
+        "ImageKit"
+      ],
+      "links": {
+        "github": "https://github.com/Krishkumar2005/image-ecommerce-nextJs"
+      }
+    },
+    {
+      "title": "Nxt Trendz – E-Commerce Platform",
+      "description": "Developed a complete shopping platform with filters, sorting, JWT-based authentication, and responsive UI.",
+      "techStack": [
+        "React",
+        "JavaScript",
+        "Bootstrap",
+        "REST APIs",
+        "JWT"
+      ],
+      "links": {
+        "live": "http://krish1nxttrendz.ccbp.tech"
+      }
+    },
+    {
+      "title": "Jobby App – Job Search Platform",
+      "description": "Built a job search platform with skill-based filtering, pagination, and protected routes using JWT.",
+      "techStack": [
+        "React",
+        "JavaScript",
+        "REST APIs",
+        "JWT"
+      ],
+      "links": {
+        "live": "http://krish1jobbyapp.ccbp.tech"
+      }
+    }
+  ],
+  "work": [
+    {
+      "company": "Smart India Hackathon",
+      "role": "Full-Stack Developer (Projects & Hackathons)",
+      "duration":"Nov 2024 - Dec 2024",
+      "description": "Built production-ready MERN and Next.js applications; winner of Smart India Hackathon 2024."
+    }
+  ],
+  "links": {
+    "github": "https://github.com/Krishkumar2005",
+    "linkedin": "https://linkedin.com/in/krish-kumar1",
+    "leetcode": "https://leetcode.com/u/Krish_Kumar1/",
+    "geeksforgeeks": "https://www.geeksforgeeks.org/profile/krishsingh2kug",
+    "portfolio": ""
+  }
+}
