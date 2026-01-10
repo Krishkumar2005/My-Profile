@@ -11,7 +11,7 @@ export default function GlobalSearchSection() {
    .then(setResult)
     
   };
- console.log(result)
+// console.log(result)
   return (
     <section className="bg-white p-4 rounded shadow space-y-3">
       <input
