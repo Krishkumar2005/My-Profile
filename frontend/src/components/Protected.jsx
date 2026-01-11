@@ -3,7 +3,7 @@ import { auth } from "../services/api";
 
 
 export default function Protected({ children }) {
-    const [response, setResponse] = useState("")
+    const [response, setResponse] = useState({message: "Unauthorized"})
     let [secret, setSecret] = useState("")
     const [error, setError] = useState("")
     useEffect(() => {
